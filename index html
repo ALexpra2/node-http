@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi propio http</title>
+</head>
+<body>
+    <header>
+        <H1></H1>
+        <h2></h2>
+    </header>
+    <main>
+        <article>
+            <p>
+
+            </p>
+        </article>
+        <section>
+            <p>
+
+            </p>
+        </section>
+    </main>
+</body>
+</html>
